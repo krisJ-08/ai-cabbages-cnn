@@ -146,6 +146,7 @@ namespace AICabbageCNN
             }
             result = keyOfMax;
             resultProbability = maxProbability;
+            //test
         }
 
         // A method to display the results
